@@ -10,7 +10,12 @@ import { setupCounter } from './counter.ts'
 
 
 //import './temasTS/03-funciones.ts'
-import './temasTS/05-desestructuracion-funciones.ts'
+//import './temasTS/05-desestructuracion-funciones.ts'
+
+//import './temasTS/06-importar-exportar.ts'
+import './temasTS/08-herencia.ts'
+
+
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">
